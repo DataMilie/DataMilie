@@ -1,4 +1,4 @@
-👋 Hi ! I’m DataMilie, a French student in computer science at ESILV in La Defense.
+👋 Hi ! I’m Emilie, a French student in computer science at ESILV in La Defense.
 
 👀 I am interested in data processing and artificial intelligence.
 
